@@ -1,0 +1,11 @@
+
+- Elaborar un informe desarrollado en latex o en el sitio de overleaf.
+
+- Seguir las pautas y estructuras propias de un informe.
+
+- Partiendo de lo visto en la ultima clase, utilizar código R que añada un valor agregado por ustedes.
+
+- Realizar una presentación del trabajo usando código R, se sugiere utilizar R Markdown.
+
+
+Opcional: Buscar ejemplos de visualización engañosa en Argentina.
